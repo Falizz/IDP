@@ -4,3 +4,9 @@
 [submodule "06-so"]
 	path = 06-so
 	url = https://github.com/Falizz/SO-IDP.git
+[submodule "pc/tf"]
+	path = pc/tf
+	url = https://github.com/Falizz/Tedax_Game.git
+[submodule "pc/exercicios"]
+	path = pc/exercicios
+	url = https://github.com/Falizz/PC-IDP.git
