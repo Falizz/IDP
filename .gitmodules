@@ -1,3 +1,6 @@
 [submodule "06-stsw"]
 	path = 06-stsw
 	url = https://github.com/Falizz/stsw.git
+[submodule "06-so"]
+	path = 06-so
+	url = https://github.com/Falizz/SO-IDP.git
