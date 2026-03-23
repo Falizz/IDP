@@ -10,3 +10,9 @@
 [submodule "05-pc/tf"]
 	path = 05-pc/tf
 	url = https://github.com/Falizz/Tedax_Game.git
+[submodule "03-tpaa/2025.2-monitor"]
+	path = 03-tpaa/2025.2-monitor
+	url = https://github.com/Falizz/Monitoria-TPAA.git
+[submodule "03-tpaa/exercicios"]
+	path = 03-tpaa/exercicios
+	url = https://github.com/Falizz/TAA-IDP.git
