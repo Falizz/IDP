@@ -1,0 +1,3 @@
+[submodule "06-stsw"]
+	path = 06-stsw
+	url = https://github.com/Falizz/stsw.git
