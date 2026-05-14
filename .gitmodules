@@ -28,3 +28,6 @@
 [submodule "02-ed"]
 	path = 02-ed
 	url = https://github.com/falizz-college/02-ed.git
+[submodule "02-est"]
+	path = 02-est
+	url = https://github.com/falizz-college/02-est.git
