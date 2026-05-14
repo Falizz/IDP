@@ -31,9 +31,3 @@
 [submodule "02-est"]
 	path = 02-est
 	url = https://github.com/falizz-college/02-est.git
-[submodule "03-ml"]
-	path = 03-ml
-	url = https://github.com/falizz-college/03-ml.git
-[submodule "trabalho"]
-	path = trabalho
-	url = https://github.com/Falizz/RandomForestOptimization.git
