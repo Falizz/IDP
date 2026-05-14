@@ -15,7 +15,7 @@
 	url = https://github.com/Falizz/Monitoria-TPAA.git
 [submodule "03-tpaa/exercicios"]
 	path = 03-tpaa/exercicios
-	url = https://github.com/Falizz/TAA-IDP.git
+	url = https://github.com/falizz-college/03-tpaa.git
 [submodule "03-poo"]
 	path = 03-poo
 	url = https://github.com/Falizz/POO-IDP.git
