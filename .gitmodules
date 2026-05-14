@@ -25,3 +25,6 @@
 [submodule "01-lc"]
 	path = 01-lc
 	url = https://github.com/falizz-college/01-lc.git
+[submodule "02-ed"]
+	path = 02-ed
+	url = https://github.com/falizz-college/02-ed.git
