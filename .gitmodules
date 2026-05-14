@@ -22,3 +22,6 @@
 [submodule "01-alp"]
 	path = 01-alp
 	url = https://github.com/falizz-college/01-alp.git
+[submodule "01-lc"]
+	path = 01-lc
+	url = https://github.com/falizz-college/01-lc.git
