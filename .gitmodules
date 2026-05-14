@@ -19,3 +19,6 @@
 [submodule "03-poo"]
 	path = 03-poo
 	url = https://github.com/Falizz/POO-IDP.git
+[submodule "01-alp"]
+	path = 01-alp
+	url = https://github.com/falizz-college/01-alp.git
